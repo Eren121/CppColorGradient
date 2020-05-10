@@ -1,6 +1,11 @@
 # CppColorGradient
 Single header gradient library designed for linear colors gradients but generic.
 
+# e
+
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeee
+
 # Colors
 
 `gradient::Color` is a typedef to `std::valarray`. Though the module can work with any valarray size, typically 3-component for RGB and 4 for RGBA,
